@@ -27,6 +27,6 @@ class SecondActivity : AppCompatActivity() {
         //diğer aktiviteden bu aktiviteye geçiş
         binding.textView2.text = "Kullanıcı İsmi : ${intent.getStringExtra("isim")?.uppercase()}"
         //uyarı bildirimi
-        Toast.makeText(this@SecondActivity, "Tebriklerrr kaydınız tamamlanmıştır!!", Toast.LENGTH_LONG).show()
+        Toast.makeText(this@SecondActivity, "Tebrikler kaydınız tamamlanmıştır!!", Toast.LENGTH_LONG).show()
     }
 }
