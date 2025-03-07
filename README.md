@@ -1,5 +1,4 @@
-Bu proje, **Android Studio ve Kotlin** kullanarak geliştirilen basit bir "Kullanıcı giriş uygulamasıdır". 
-Kullanıcıdan isim bilgisi alınıp bir sonraki sayfaya aktarılarılark ekrana yazdırılır.
+Bu proje, **Android Studio ve Kotlin** kullanarak geliştirilen basit bir "Kullanıcı giriş uygulamasıdır". Kullanıcıdan isim bilgisi alınıp bir sonraki sayfaya aktarılarılark ekrana yazdırılır. Geliştirme sürecinde BTK Akademi2nin Kotlin eğitimlerinden faydalanılmıştır.
 
 ---
 
